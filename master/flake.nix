@@ -11,6 +11,7 @@
   inputs.src-nimFinLib-master.ref   = "refs/heads/master";
   inputs.src-nimFinLib-master.owner = "qqtop";
   inputs.src-nimFinLib-master.repo  = "NimFinLib";
+  inputs.src-nimFinLib-master.dir   = "";
   inputs.src-nimFinLib-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
