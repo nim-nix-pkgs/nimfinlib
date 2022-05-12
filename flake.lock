@@ -63,11 +63,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651590681,
-        "narHash": "sha256-GQuYqnHqAG/Ha++0xdaW/K4XXDcDy3uLw642rqSlwVE=",
+        "lastModified": 1651918195,
+        "narHash": "sha256-q8lgrXUVDqaWsNh6pUHdMbngiQD7MA6vHTVrSCNaUUE=",
         "owner": "nim-nix-pkgs",
         "repo": "nimfinlib",
-        "rev": "f63914a74103cdf336cbf744288d7bdd44609e14",
+        "rev": "303004491104b35f109dd52039fc43c1f8ae4101",
         "type": "github"
       },
       "original": {
